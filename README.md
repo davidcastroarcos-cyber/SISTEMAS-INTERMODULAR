@@ -7,7 +7,7 @@ Más que un simple trabajo de clase, he querido diseñar cómo sería de verdad 
 
 ---
 
-## 🚀 ¿Cómo pensé este proyecto?
+##  ¿Cómo pensé este proyecto?
 En una academia real, no todos los puestos de trabajo son iguales. Por eso, decidí no usar el mismo sistema para todo:
 
 * **Windows 11 en Recepción:** Para que todo el software de gestión y las impresoras funcionen a la primera, sin líos de drivers.
@@ -15,7 +15,7 @@ En una academia real, no todos los puestos de trabajo son iguales. Por eso, deci
 
 ---
 
-## 🛠️ ¿Qué hay "bajo el capó"?
+##  ¿Qué hay debajo de todo?
 
 ### 1. El Laboratorio (VirtualBox)
 Nadie construye una casa sin planos. Antes de tocar un equipo real, monté todo en **VirtualBox**. Me sirvió para ajustar la RAM y el disco de forma que, cuando un profe ponga un vídeo en clase, el ordenador no se quede "colgado".
